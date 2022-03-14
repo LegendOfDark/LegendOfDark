@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LegendOfDark or Ali
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js and JSX
+- 👀 I'm interested in all things computer.
 
 <!---
 LegendOfDark/LegendOfDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
