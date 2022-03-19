@@ -17,7 +17,7 @@ Hope you enjoy my art!!
 - [Canvas Collision Detection](https://github.com/LegendOfDark/canvas-collision-detection) - https://legendofdark.github.io/canvas-collision-detection/
 - [Spike Dodger](https://github.com/LegendOfDark/agar.io-type-game) - https://legendofdark.github.io/agar.io-type-game/
 - [Disco Stu](https://github.com/LegendOfDark/disco-stu-style) - https://legendofdark.github.io/disco-stu-style/
-- [Canvas Particle Wallpaper](https://github.com/LegendOfDark/FrostedFun) - https://legendofdark.github.io/interactive-canvas-animation/
+- [Canvas Particle Wallpaper](https://github.com/LegendOfDark/interactive-canvas-animation) - https://legendofdark.github.io/interactive-canvas-animation/
 
 
 Flask & Django
